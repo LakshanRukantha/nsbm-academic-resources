@@ -1,1 +1,1 @@
-# nsbm-academic-resources
+# nsbm-academic-resources (Computing)
